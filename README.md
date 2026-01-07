@@ -22,14 +22,18 @@ Designed for operational environments where files must be acted on immediately w
 
 Make sure all files remain in the **same folder**:
 
-FolderMonitorAdrian.exe
-FolderMonitorAdrian.py
-FolderMonitorAdrian.spec
-config.json
-INSTALL.bat
-uninstall.bat
-FolderMonitorAdrian_ReadMe.pdf
-foldermonitoradrian.ico
+| File / Folder                    | Description                                                   |
+| -------------------------------- | ------------------------------------------------------------- |
+| `FolderMonitorAdrian.exe`        | Compiled Windows executable                                   |
+| `FolderMonitorAdrian.py`         | Main Python application script                                |
+| `FolderMonitorAdrian.spec`       | PyInstaller build specification                               |
+| `config.json`                    | Configuration file (folders, email/SMTP settings)             |
+| `foldermonitoradrian.ico`        | Application / tray icon                                       |
+| `INSTALL.bat`                    | Installs and starts the folder monitor (run as Administrator) |
+| `uninstall.bat`                  | Stops and removes the folder monitor                          |
+| `FolderMonitorAdrian_ReadMe.pdf` | Detailed user guide and setup instructions                    |
+| `README.md`                      | Project overview and usage instructions                       |
+
 
 
 ⚠️ Do **not** separate these files.
@@ -107,4 +111,5 @@ A full user guide is included:
 
 Developed by **Christos Paraskevopoulos**  
 GitHub: https://github.com/christos-pa
+
 
