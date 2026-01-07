@@ -22,6 +22,15 @@ Designed for operational environments where files must be acted on immediately w
 
 Make sure all files remain in the **same folder**:
 
+FolderMonitorAdrian.exe
+FolderMonitorAdrian.py
+FolderMonitorAdrian.spec
+config.json
+INSTALL.bat
+uninstall.bat
+FolderMonitorAdrian_ReadMe.pdf
+foldermonitoradrian.ico
+
 
 ⚠️ Do **not** separate these files.
 
@@ -98,3 +107,4 @@ A full user guide is included:
 
 Developed by **Christos Paraskevopoulos**  
 GitHub: https://github.com/christos-pa
+
