@@ -1,8 +1,9 @@
 # FolderMonitorAdrian 📁📨
 
-FolderMonitorAdrian is a lightweight **Windows background utility** that monitors a folder in real time, **emails new files instantly**, and **automatically archives them** after detection.
+FolderMonitorAdrian is a lightweight **Windows background utility** developed to support a real operational requirement for a colleague. The tool monitors a specified folder in real time, **emails newly detected files instantly**, and **automatically archives them** after processing.
 
-Designed for operational environments where files must be acted on immediately with minimal user interaction.
+The application was named *FolderMonitorAdrian* to reflect its original purpose and end user, and remains generic, reusable, and configurable for similar file-based workflows in other environments.
+
 
 ---
 
@@ -111,5 +112,6 @@ A full user guide is included:
 
 Developed by **Christos Paraskevopoulos**  
 GitHub: https://github.com/christos-pa
+
 
 
