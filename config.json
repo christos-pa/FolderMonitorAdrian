@@ -1,0 +1,27 @@
+{
+  "watch_folder": "C:/Users/paraskevopoulos.chri/Desktop/Projects/FolderMonitorAdrianv2/inbox",
+  "backup_folder": "C:/Users/paraskevopoulos.chri/Desktop/Projects/FolderMonitorAdrianv2/backup",
+
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "use_starttls": true,
+
+    "username": "proredgamer@gmail.com",
+    "password": "lsvanxxowntdihwq",
+
+    "from_addr": "proredgamer@gmail.com",
+    "to_addrs": ["proredgamer@gmail.com", "christos1129@gmail.com"],
+    "subject_prefix": "[FolderMonitorAdrian]"
+  },
+
+  "zip_before_email": false,
+  "max_total_attachment_mb": 18,
+
+  "state_file": "state/folder_monitor_state.json",
+  "log_file":   "state/folder_monitor_log.txt",
+
+  "include_extensions": [],
+  "exclude_extensions": [".tmp", ".part", ".crdownload"],
+  "min_file_age_seconds": 5
+}
